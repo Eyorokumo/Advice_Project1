@@ -68,3 +68,53 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- /* @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
+}
+
+body {
+  background: hsl(218, 23%, 16%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card {
+  background: hsl(217, 19%, 24%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 540px;
+  padding: 3rem 2rem 4.5rem 2rem;
+  margin: 0 auto;
+  border-radius: 15px;
+  position: relative;
+}
+
+p {
+  color: hsl(150, 100%, 66%);
+  letter-spacing: 3.46px;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  font-size: 12px;
+}
+
+h2 {
+  color: hsl(193, 38%, 86%);
+  font-size: 28px;
+  margin-bottom: 2.5rem;
+}
+
+/* .clr {
+  clear: both;
+  line-height: 1.5;
+} */
+/* .dice { -->
